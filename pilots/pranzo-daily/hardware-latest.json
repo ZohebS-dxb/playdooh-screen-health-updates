@@ -1,12 +1,12 @@
 {
-  "version": "v6",
-  "installMissing": false,
+  "version": "v7",
+  "packageUrl": "https://raw.githubusercontent.com/ZohebS-dxb/playdooh-screen-health-updates/e60c0a82fbe407ebe17e900cee18e90bfefb1163/pilots/pranzo-daily/PlayDooh-Hardware-Updater-Payload-v7.zip",
+  "sha256": "03d547f9330a1184367407a422d8031c91472cd0e39e70e23b812ca4f89aafc0",
+  "enabled": true,
   "screenIds": [
     "0105"
   ],
-  "sha256": "136238a02b64a6446da8f2ad09dbda207f06cbb151b60ef39d3b2bf7febcbb63",
   "mode": "Observe",
-  "enableDailyReporting": true,
-  "packageUrl": "https://raw.githubusercontent.com/ZohebS-dxb/playdooh-screen-health-updates/6db120dbd1e2c158d32b0ddb2c0582acd011881b/pilots/pranzo-daily/PlayDooh-Hardware-Updater-Payload-v6.zip",
-  "enabled": true
+  "installMissing": false,
+  "enableDailyReporting": true
 }
