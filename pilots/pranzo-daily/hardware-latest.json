@@ -1,0 +1,12 @@
+{
+  "version": "v6",
+  "installMissing": false,
+  "screenIds": [
+    "0105"
+  ],
+  "sha256": "136238a02b64a6446da8f2ad09dbda207f06cbb151b60ef39d3b2bf7febcbb63",
+  "mode": "Observe",
+  "enableDailyReporting": true,
+  "packageUrl": "https://raw.githubusercontent.com/ZohebS-dxb/playdooh-screen-health-updates/6db120dbd1e2c158d32b0ddb2c0582acd011881b/pilots/pranzo-daily/PlayDooh-Hardware-Updater-Payload-v6.zip",
+  "enabled": true
+}
