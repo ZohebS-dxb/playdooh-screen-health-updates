@@ -1,0 +1,11 @@
+{
+  "version": "v5",
+  "packageUrl": "https://raw.githubusercontent.com/ZohebS-dxb/playdooh-screen-health-updates/2145acc36863c778223fe780d2c271912b6b9521/pilots/pranzo-20261104/PlayDooh-Hardware-Updater-Payload-v5.zip",
+  "sha256": "f00298ba92eb6d5e4bdaac8715c2af482495074b215293dcd5669b5f9cbf8975",
+  "enabled": true,
+  "screenIds": [
+    "0105"
+  ],
+  "mode": "Observe",
+  "installMissing": false
+}
