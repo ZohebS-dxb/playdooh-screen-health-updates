@@ -1,5 +1,5 @@
 {
-  "version": "v1",
-  "packageUrl": "https://github.com/ZohebS-dxb/playdooh-screen-health-updates/releases/download/updater-v1/PlayDooh-ScreenHealth-Updater-v1.zip",
-  "sha256": "9132bb582a83c6570ee7d6e5d196f61031d09176eb14a3ddb602dc957d486fe5"
+  "version": "v4",
+  "packageUrl": "https://raw.githubusercontent.com/ZohebS-dxb/playdooh-screen-health-updates/b332fb7ec54b6bc87f568af9459489893eed591f/releases/PlayDooh-ScreenHealth-Updater-v4.zip",
+  "sha256": "8f74870f16cb8b9560eb5dc81932bb4c481555ea2ba19e3111e1f3e0fd8492c5"
 }
