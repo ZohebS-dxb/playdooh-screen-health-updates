@@ -1,0 +1,21 @@
+name: Hardware fan regression tests
+on:
+  push:
+    branches: [codex/dual-fan-monitoring-20261109]
+  pull_request:
+    paths: ['hardware/**', 'tests/Test-HardwareFans.ps1', '.github/workflows/hardware-fans.yml']
+permissions:
+  contents: read
+jobs:
+  windows-powershell:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Parse and test with Windows PowerShell 5.1
+        shell: powershell
+        run: ./tests/Test-HardwareFans.ps1
+      - name: Parse and test with PowerShell 7
+        shell: pwsh
+        run: ./tests/Test-HardwareFans.ps1
